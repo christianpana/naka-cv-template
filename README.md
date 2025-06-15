@@ -32,6 +32,19 @@ Naka is highly customizable to fit your personal branding:
 - **Sections:** Add or remove sections as needed to tailor your CV to your profession.
 - **Layout Adjustments:** Adjust margins, spacing, and layout elements to better suit your content.
 
+## Naka React
+
+**Naka React** is the modern React-based implementation of the Naka CV Template, built with TypeScript, React 18, and Vite. Simply customize your CV by editing the `data.json` file and deploy to any static hosting service. For complete setup and deployment instructions, see the [Naka React README](./naka-react/README.md).
+
+### Key Features
+
+- **Modern Tech Stack:** Built with React 18, TypeScript 5.6, and Vite for fast development
+- **Data Validation:** Uses Zod for robust data validation ensuring proper CV formatting
+- **Easy Customization:** Simply edit `data.json` to personalize your CV
+- **Production Ready:** Optimized build process for deployment to static hosting services
+- **Professional Fonts:** Includes PT Serif and PT Sans fonts via Fontsource
+- **QR Code Generation:** Built-in QR code support with react-qrcode-logo
+
 ## Screenshots
 
 ### Template
