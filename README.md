@@ -1,5 +1,9 @@
 # Naka CV Template
 
+<p style="text-align: center">
+  <img src="naka.png" alt="Naka CV Template Logo" width="150" height="150">
+</p>
+
 Naka is a clean and professional CV template designed to highlight your key details and achievements in previous roles. Whether you're a Software Engineer, Product Manager, or any other professional, Naka helps you present your experience and skills effectively.
 
 ## Table of Contents

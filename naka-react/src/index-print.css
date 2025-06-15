@@ -1,0 +1,23 @@
+@media print {
+  @page {
+    margin-top: 0.5in;
+    margin-bottom: 0.5in;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  body {
+    margin: 0 !important;
+    padding: 0 !important;
+
+    /*transform: scale(0.8);*/
+    /*transform-origin: center;*/
+    zoom: 90%;
+
+    #root {
+      max-width: none !important;
+      margin: 0 !important;
+      padding: 0 !important;
+    }
+  }
+}

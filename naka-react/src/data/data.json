@@ -1,0 +1,159 @@
+{
+  "header": {
+    "name": "Nakata Katana",
+    "expertise": "Expert in AWS, Cybersecurity, and Full-Stack Development",
+    "contact": {
+      "phone": "+1 234 56 78",
+      "email": "nataka.katana@email.com",
+      "location": "London, UK",
+      "linkedin": "linkedin.com/in/katana",
+      "github": "github.com/katana",
+      "website": "katana.com"
+    },
+    "qrcode": "https://github.com/christianpana/naka-cv-template/"
+  },
+  "aboutMe": "Experienced Senior Software Engineer with over 10 years in the technology industry, specializing in developing scalable online business tools and gaming applications. Proficient in AWS, ReactJs, Node.js, and Typescript. Adept at leading cross-functional teams, implementing cybersecurity best practices, and driving continuous improvement in software development processes.",
+  "professionalExperience": [
+    {
+      "title": "Senior Software Engineer",
+      "company": "Naka",
+      "location": "Hybrid (London, UK)",
+      "startDate": "02.2021",
+      "endDate": "ongoing",
+      "description": "Lead the development of innovative online business tools that enhance client operations and drive digital transformation.",
+      "responsibilities": [
+        "Designed and implemented scalable cloud architectures using AWS services, improving system reliability by 30%.",
+        "Developed dynamic front-end interfaces with ReactJs and Typescript, enhancing user experience and engagement.",
+        "Built and maintained robust back-end services with Node.js, ensuring seamless integration with third-party APIs.",
+        "Mentored junior developers, fostering a culture of continuous learning and technical excellence."
+      ],
+      "technologies": [
+        "AWS",
+        "ReactJs",
+        "ExpressJs",
+        "Typescript",
+        "Kubernetes",
+        "Splunk",
+        "Github Actions",
+        "MongoDb"
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Tataka",
+      "location": "Onsite (Manchester, UK)",
+      "startDate": "06.2018",
+      "endDate": "02.2021",
+      "description": "Contributed to the development of cutting-edge gaming applications, focusing on performance optimization and user engagement.",
+      "responsibilities": [
+        "Developed multiplayer game features using Node.js and real-time communication protocols, enhancing player interaction.",
+        "Optimized game performance, reducing load times by 25% and improving overall user satisfaction.",
+        "Implemented security measures to protect user data and prevent cheating, adhering to industry cybersecurity standards.",
+        "Participated in code reviews and agile ceremonies to maintain code quality and project timelines."
+      ],
+      "technologies": [
+        "Typescript",
+        "MongoDb",
+        "Java",
+        "SpringBoot",
+        "NodeJs",
+        "ExpressJs",
+        "Docker",
+        "Tailwind"
+      ]
+    },
+    {
+      "title": "Software Developer",
+      "company": "TechWave Solutions",
+      "location": "Remote (Cardiff, Wales)",
+      "startDate": "01.2017",
+      "endDate": "06.2018"
+    },
+    {
+      "title": "Jr Software Developer",
+      "company": "InnovateX Ltd",
+      "location": "Onsite (London, UK)",
+      "startDate": "09.2015",
+      "endDate": "01.2017"
+    }
+  ],
+  "training": [
+    {
+      "institution": "AWS",
+      "courses": [
+        "Advanced AWS Architecture"
+      ]
+    },
+    {
+      "institution": "MongoDB",
+      "courses": [
+        "MongoDB Optimization and Performance",
+        "MongoDB Database and Security"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Science in Computer Science - Software Engineering",
+      "institution": "University of London",
+      "location": "London, UK",
+      "startDate": "2015",
+      "endDate": "2017"
+    },
+    {
+      "degree": "Bachelor of Engineering in Software Engineering",
+      "institution": "University of Manchester",
+      "location": "Manchester, UK",
+      "startDate": "2012",
+      "endDate": "2015"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "listening": "C3",
+      "reading": "C3",
+      "interaction": "C3",
+      "production": "C3",
+      "writing": "C3"
+    },
+    {
+      "language": "Japanese",
+      "listening": "B1",
+      "reading": "B1",
+      "interaction": "B1",
+      "production": "B1",
+      "writing": "B1"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect – Professional",
+      "year": "2020",
+      "link": "https://www.credly.com/org/future-creators/badge/demonstrate-example-badge",
+      "badge": "https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png"
+    },
+    {
+      "name": "Certified Information Systems Security Professional (CISSP)",
+      "year": "2019",
+      "link": "https://www.credly.com/org/future-creators/badge/demonstrate-example-badge",
+      "badge": "https://images.credly.com/size/680x680/images/6eeb0a98-33cb-4f72-bfc3-f89d65a3286c/image.png"
+    }
+  ],
+  "other": [
+    {
+      "title": "Volunteer Developer at Code for Good",
+      "institution": "Code for Good",
+      "location": "Berlin, Germany",
+      "date": "May 2018",
+      "type": "volunteer"
+    },
+    {
+      "title": "Cloud Security in Modern Applications",
+      "institution": "Tech Innovators Journal",
+      "location": "Berlin, Germany",
+      "date": "March 2023",
+      "type": "publication"
+    }
+  ]
+}
