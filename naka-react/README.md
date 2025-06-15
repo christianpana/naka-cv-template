@@ -22,17 +22,17 @@ Built with TypeScript, React 18, and Vite for optimal performance and developer 
 2. Navigate to the naka-react directory
 3. Install dependencies:
 
-    ```bash
-    npm install
-    ```
+```bash
+npm install
+```
 
 ### Development
 
 To run the application locally in development mode:
 
-    ```bash
-    npm run dev
-    ```
+```bash
+npm run dev
+```
 
 This will start the development server using Vite. Your application will be available at `http://localhost:5173` (or another port if 5173 is busy).
 
@@ -80,9 +80,9 @@ For more advanced customization beyond data changes:
 
 To create a production build:
 
-    ```bash
-    npm run build
-    ```
+```bash
+npm run build
+```
 
 This command:
 - Compiles TypeScript to JavaScript
@@ -97,9 +97,9 @@ To test your production build locally:
 1. Navigate to the dist directory: `cd ./dist`
 2. Serve the files locally using a static server:
 
-       ```bash
-       npx serve -s ./ -l 3000
-       ```
+```bash
+npx serve -s ./ -l 3000
+```
 
 3. Open `http://localhost:3000` in your browser
 
