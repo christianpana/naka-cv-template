@@ -1,4 +1,3 @@
-
 # Naka React
 
 <p style="text-align: center">

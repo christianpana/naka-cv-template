@@ -14,9 +14,11 @@ export function Header({data}: HeaderProps) {
         <h1 className="text-5xl font-extrabold mb-2 font-serif">
           {data.name}
         </h1>
-        {data?.expertise &&
-          <p className="text-lg mb-4 text-gray-700">{data.expertise}</p>
-        }
+        {data?.expertise && (
+          <p className="text-lg mb-4 text-gray-700">
+            {data.expertise}
+          </p>
+        )}
 
         <div className="space-y-1 text-sm">
           <div className="flex items-center">
